@@ -1,0 +1,11 @@
+#Mon Feb 01 15:19:14 CET 2021
+nick2=Fifek
+nick1=popo
+score2=3070
+score3=3020
+score4=2479
+score5=686
+score1=11190
+nick5=Rad
+nick4=Bonifacy
+nick3=Ronbo

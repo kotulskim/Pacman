@@ -1,0 +1,11 @@
+#Mon Feb 01 15:13:39 CET 2021
+nick2=monika
+nick1=ja
+score2=350
+score3=202
+score4=166
+score5=62
+score1=415
+nick5=to nie on
+nick4=nikt
+nick3=marek

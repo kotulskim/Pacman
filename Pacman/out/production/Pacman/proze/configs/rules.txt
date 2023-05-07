@@ -1,0 +1,11 @@
+Zasady gry:
+Gracz kieruje żółtyą kulką – tytułowym Pac-Manem − poprzez labirynt pełen białych kulek.
+Gracz porusza się strzałkami na klawiaturze.
+Warunkiem przejścia do następnego poziomu jest zjedzenie wszystkic kulek. 
+Ponadto należy unikać duszków, które poruszają się w losowych kierunkach po całej planszy. 
+Trafienie na duszka powoduje utratę jednego życia. Na początku każdego poziomu gracz ma 3 życia.
+Na Planszy są także większe kulki,których zjedzenie dodaje dodatkowe 3 punkty do wyniku gracza.
+Za każde zachowanie życia na koniec etapu gracz dostaje dodatkowe 5 punktów.
+Liczba punktów na końcu gry jest sumą punktów ze wszystkich poziomów. 
+Im gracz dojdzie do dalszego poziomu i im mniej żyć straci, tym zdobędzie więcej punktów. 
+

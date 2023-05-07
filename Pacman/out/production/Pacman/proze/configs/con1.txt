@@ -1,0 +1,17 @@
+width=470
+height=520
+amountOfLevels=3
+speed=3
+bonusBall=1
+bonusBigBall=4
+bigBall=3
+ball=6
+lifes=3
+bonusLife=3
+sizeOfBall=5
+sizeOfBigBall=10
+sizeOfPacman=20
+sizeOfGhost=15
+amountOfGhost=1
+
+

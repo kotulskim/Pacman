@@ -1,0 +1,15 @@
+par0=470
+par1=520
+par2=3
+par3=3
+par4=1
+par5=4
+par6=3
+par7=6
+par8=3
+par9=3
+par10=5
+par11=10
+par12=20
+par13=15
+par14=5
